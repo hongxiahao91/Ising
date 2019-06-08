@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/laolabaobei/Research/Clion/Ising_Model/lattice.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+-
+vector
+-
+
+/Users/laolabaobei/Research/Clion/Ising_Model/test.cpp
+iostream
+-
+time.h
+-
+stdlib.h
+-
+lattice.h
+/Users/laolabaobei/Research/Clion/Ising_Model/lattice.h
+

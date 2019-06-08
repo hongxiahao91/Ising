@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/laolabaobei/Research/Clion/Ising_Model/main.cpp
+iostream
+-
+math.h
+-
+time.h
+-
+stdlib.h
+-
+

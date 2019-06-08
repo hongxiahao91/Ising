@@ -1,0 +1,3 @@
+/Users/laolabaobei/Research/Clion/Ising_Model/build/CMakeFiles/rebuild_cache.dir
+/Users/laolabaobei/Research/Clion/Ising_Model/build/CMakeFiles/edit_cache.dir
+/Users/laolabaobei/Research/Clion/Ising_Model/build/CMakeFiles/a.exe.dir
