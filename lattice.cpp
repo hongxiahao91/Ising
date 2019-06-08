@@ -29,6 +29,12 @@ void lattice::initial(const int num){
         }
 };
 
+lattice::~lattice(){
+    for(i=0;i<N;i++)
+        free(*(spin+i));
+    free(spin);
+}
+
 lattice::lattice(const int num){
     N=num;
     initial(N);
