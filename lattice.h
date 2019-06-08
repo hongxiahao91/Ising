@@ -23,6 +23,8 @@ public:
     static double dt;
 
     lattice();
+    ~lattice();
+    lattice(const int,const int&);
     void initial(const int);
     lattice(int);
     //double CalDeltaE();
