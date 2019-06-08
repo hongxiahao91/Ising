@@ -2,9 +2,7 @@
 // Created by laura on 6/8/19.
 //
 
-#include <iostream>
-#include <time.h>
-#include <stdlib.h>
+
 #include "lattice.h"
 
 int main(int argc,char* argv[]){
